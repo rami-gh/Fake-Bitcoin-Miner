@@ -1,28 +1,32 @@
 # Fake-Bitcoin-Miner
 
+# Bitcoin-Guthaben-Simulator
+
 Dieses Python-Skript simuliert die Generierung von Bitcoin-Guthaben und zeigt die Transaktionshistorie an.
 
-Funktionen:
+## Funktionen
 
-Generierung von zufälligen Bitcoin-Beträgen
-Anzeige des aktuellen Kontostands
-Speicherung der Transaktionshistorie in einer Datei
-Anzeige der Transaktionshistorie in einer Tabelle
-Benutzung:
+- **Generierung von zufälligen Bitcoin-Beträgen**
+- **Anzeige des aktuellen Kontostands**
+- **Speicherung der Transaktionshistorie in einer Datei**
+- **Anzeige der Transaktionshistorie in einer Tabelle**
 
-Führen Sie das Skript mit python main.py aus.
-Wählen Sie aus dem Menü die gewünschte Option.
-Generieren Sie Guthaben, indem Sie Option 1 wählen.
-Zeigen Sie die Transaktionshistorie an, indem Sie Option 2 wählen.
-Beenden Sie das Skript, indem Sie Option 3 wählen.
-Hinweis:
+## Benutzung
 
-Dieses Skript dient nur zu Demonstrationszwecken.
-Es ist keine echte Bitcoin-Wallet.
+1. Führen Sie das Skript mit `python main.py` aus.
+2. Wählen Sie aus dem Menü die gewünschte Option:
+    - **Option 1:** Generieren Sie Guthaben.
+    - **Option 2:** Zeigen Sie die Transaktionshistorie an.
+    - **Option 3:** Beenden Sie das Skript.
 
-Support:
-Discord [https://discord.gg/x2M5Xkwp47]
+## Hinweis
 
-Lizenz:
+> Dieses Skript dient nur zu Demonstrationszwecken. Es ist keine echte Bitcoin-Wallet.
 
-MIT
+## Support
+
+Bei Fragen oder Problemen, treten Sie unserem [Discord-Server](https://discord.gg/x2M5Xkwp47) bei.
+
+## Lizenz
+
+Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
